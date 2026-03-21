@@ -165,5 +165,3 @@ Equipo de Workshop 2 - EAFIT 2026
 - **Tiempo de ejecución**: 5-15 minutos en promedio por notebook
 
 ---
-
-**¡Éxito con tu sustentación! 🎓**
