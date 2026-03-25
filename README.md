@@ -157,6 +157,7 @@ Después de ejecutar los notebooks verás:
 ## 👥 Autores
 
 Equipo de Workshop 2 - EAFIT 2026
+JUAN DAVID ORTIZ AND CRISTIAN CABARCAS 
 
 ---
 
