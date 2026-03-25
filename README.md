@@ -1,5 +1,7 @@
 # Workshop 2: Machine Learning & Deep Learning Aplicado
+**Estado:** ✅ COMPLETADO - Código funcional y ejecutable
 
+---
 **Universidad EAFIT - Introducción a la Inteligencia Artificial (2026-01)**
 
 ## Descripción del Proyecto
